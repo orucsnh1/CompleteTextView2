@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CompleteTextView</string>
+    <string name="action_settings">Settings</string>
+
+
+    <array name="ulkeler">
+        <item> Türkiye </item>
+        <item> Irak</item>
+        <item> İspanya </item>
+        <item> Japonya </item>
+        <item> Malta</item>
+        <item> Polonya </item>
+        <item> Somali </item>
+
+    </array>
+</resources>
